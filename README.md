@@ -10,3 +10,14 @@ Comprehensive Udemy Modules Dedicated to Understanding SwiftUI fundamentals.
 * How to run apps on the iOS Simulator as well as sideload to a physical device
 <br/>
 <img src="images/Mod1Enviroment.jpeg" width=300x>
+
+## Module 2 - INTRODUCTION TO IOS ENVIROMENT
+* Learn to clone projects from GitHub.
+* Link design with code via IBActions and IBOutlets.
+* Learn to detect user interaction through UIButtons. Understand and use Swift variables, constants and collection types.
+* Learn about printing and commenting in Swift.
+* Learn about randomisation in swift and range operators. Learn to use Image Literals in code.
+* Learn to use Swift Playgrounds.
+* Understand the data type system and the primitive data types such as Strings, Ints and Doubles.
+<br/>
+<img src="images/Mod2Enviroment.jpeg" width=300x>
