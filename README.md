@@ -9,4 +9,4 @@ Comprehensive Udemy Modules Dedicated to Understanding SwiftUI fundamentals.
 * How to create app icons and size them for all resolutions
 * How to run apps on the iOS Simulator as well as sideload to a physical device
 <br/>
-<img src="images/Mod1Enviroment.jpeg" width=600x>
+<img src="images/Mod1Enviroment.jpeg" width=300x>
