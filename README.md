@@ -20,4 +20,4 @@ Comprehensive Udemy Modules Dedicated to Understanding SwiftUI fundamentals.
 * Learn to use Swift Playgrounds.
 * Understand the data type system and the primitive data types such as Strings, Ints and Doubles.
 <br/>
-<img src="images/Mod2Enviroment.jpeg" width=300x>
+<img src="images/gitClone.jpeg" width=300x>
