@@ -9,7 +9,7 @@ Comprehensive Udemy Modules Dedicated to Understanding SwiftUI fundamentals.
 * How to create app icons and size them for all resolutions
 * How to run apps on the iOS Simulator as well as sideload to a physical device
 <br/>
-<img src="images/Mod1Enviroment.jpeg" width=300x>
+<img src="Module1/Mod1Enviroment.jpeg" width=300x>
 
 ## Module 2 - INTRODUCTION TO IOS ENVIROMENT
 * Learn to clone projects from GitHub.
@@ -20,4 +20,4 @@ Comprehensive Udemy Modules Dedicated to Understanding SwiftUI fundamentals.
 * Learn to use Swift Playgrounds.
 * Understand the data type system and the primitive data types such as Strings, Ints and Doubles.
 <br/>
-<img src="images/gitClone.jpeg" width=300x>
+<img src="Module2/gitClone.jpeg" width=300x>
